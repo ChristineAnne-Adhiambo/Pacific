@@ -1,0 +1,145 @@
+@media(max-width: 450px){
+  body{
+  background-color: orange;
+  }
+  }
+
+body{
+  border-radius: 100px;
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.container{
+  background-color: whitesmoke;
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+}
+
+nav ul {
+  width: 100%;
+   
+}
+
+
+.Left ul li {
+  list-style: none;
+  float: left;
+  padding: 10px 12px;
+  text-align:right ;
+}
+
+.Pacifia {
+  position: relative;
+  left: 300px;
+}
+.Right ul li {
+  list-style: none;
+  float: right;
+  text-align: left;
+  position: relative;
+  bottom: 30px;
+  justify-content: space-between;
+  padding: 0px 20px; 
+}
+.headings h1  {
+  text-align: left;
+  position: relative;
+  top: 80px;
+   margin-left: 10px; 
+  margin-bottom: 20px; 
+  
+  
+}
+
+.headings p {
+  float: left;
+  margin-left: 10px;
+  opacity: 0.5;
+  position: relative;
+  top: 70px;
+
+
+} 
+
+.buttons{
+  position: relative;
+  top: 200px;
+  right: 350px;
+}
+
+#image {
+  position: absolute;
+  bottom: 90;
+  right: 600;
+  top: 150px;
+  right: 0;
+  
+  
+}
+.orange1{
+  color: rgb(255, 42, 0);
+}
+
+.orange2{
+  color: rgb(255, 42, 0);
+}
+
+button:hover {
+  background-color: rgb(255, 42, 0);
+}
+
+.Starting{
+  background-color: rgb(255, 42, 0);
+border-radius: 10px 30px 15px 35px;
+padding: 20px;
+
+}
+
+.pricing{
+  background-color: white;
+  border-radius: 20px;
+  border: solid white;
+}
+
+.Ratings1{
+  position: relative;
+  top: 250px;
+}
+
+.Ratings2{
+  position: relative;
+  left: 300px;
+  margin-top: 170px;
+}
+
+.Peasy{
+  position: relative;
+  bottom:50px ;
+  margin-top: 30px;
+  padding: 30px;
+}
+
+.Get{
+  margin-left: 450px;
+  float: left;
+  position: relative;
+  bottom: 200px;
+}
+.wicked{
+  text-align: center;
+  position: relative;
+  bottom: 200px;
+}
+
+
+
+
+
+
+
+
+
+
